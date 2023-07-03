@@ -1,4 +1,4 @@
 ckfinder:
   connector:
     authenticationClass: App\CustomCKFinderAuth\CustomCKFinderAuth
-
+    connectorFactoryClass: App\CustomConnectorFactory\CustomConnectorFactory
