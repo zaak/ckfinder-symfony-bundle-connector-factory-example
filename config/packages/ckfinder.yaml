@@ -1,0 +1,4 @@
+ckfinder:
+  connector:
+    authenticationClass: App\CustomCKFinderAuth\CustomCKFinderAuth
+
