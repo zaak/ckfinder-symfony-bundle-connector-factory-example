@@ -1,4 +1,7 @@
 {
+    "ckfinder/ckfinder-symfony-bundle": {
+        "version": "4.0.0"
+    },
     "doctrine/doctrine-bundle": {
         "version": "2.10",
         "recipe": {
